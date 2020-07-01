@@ -1,5 +1,5 @@
 # Bootcamp
-  * All the solution for Bootcamp Homework wil be posted here
-  * The file structure will be <Lesson>/<HomeWork>
+  * All the solution for Bootcamp Homework wil be posted here.
+  * The file structure will be Lesson/HomeWork dir format.
 
   :tada: 
